@@ -2,6 +2,7 @@
 
 ## [0.0.4] - 2023-11-16
 - Adicionando os arquivos da atividade de CSS
+- Adicionando novas branchs para cada exercício
 ## [0.0.3] - 2023-11-12
 - Adicionando o arquivo formularioDeCadrastro
 ## [0.0.2] - 2023-11-12
